@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{6444A418-0883-E558-A809-5BC4365E541B}|TP_MODUL4_103022400043.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6444A418-0883-E558-A809-5BC4365E541B}|TP_MODUL4_103022400043.csproj|c:\\users\\arizt\\basdat\\tp_modul4_103022400043\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6444A418-0883-E558-A809-5BC4365E541B}|TP_MODUL4_103022400043.csproj|solutionrelative:doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6444A418-0883-E558-A809-5BC4365E541B}|TP_MODUL4_103022400043.csproj|c:\\users\\arizt\\basdat\\tp_modul4_103022400043\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6444A418-0883-E558-A809-5BC4365E541B}|TP_MODUL4_103022400043.csproj|solutionrelative:kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "C:\\Users\\arizt\\Basdat\\TP_MODUL4_103022400043\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "DoorMachine.cs",
+              "ToolTip": "C:\\Users\\arizt\\Basdat\\TP_MODUL4_103022400043\\DoorMachine.cs",
+              "RelativeToolTip": "DoorMachine.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:24:56.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "KodePos.cs",
               "DocumentMoniker": "C:\\Users\\arizt\\Basdat\\TP_MODUL4_103022400043\\KodePos.cs",
               "RelativeDocumentMoniker": "KodePos.cs",
               "ToolTip": "C:\\Users\\arizt\\Basdat\\TP_MODUL4_103022400043\\KodePos.cs",
               "RelativeToolTip": "KodePos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T20:03:45.651Z",
               "EditorCaption": ""
@@ -41,7 +58,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\arizt\\Basdat\\TP_MODUL4_103022400043\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T20:01:24.22Z",
               "EditorCaption": ""
